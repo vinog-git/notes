@@ -2,7 +2,7 @@
 
 ### Prevent Heroku apps from sleeping
 
-* [https://github.com/vinog-git/notes.git](https://github.com/vinog-git/notes.git)
+* [Kaffeine Heroku](http://kaffeine.herokuapp.com/)
 * [uptimeRobot](https://uptimerobot.com/)
 
 # Links for reference
